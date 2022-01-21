@@ -1,0 +1,10 @@
+package com.innova.homework2.enumqualifier;
+
+@EQualifier(EDatabaseVersion.MSSQL)
+public class MariaDb implements MyDatabaseVersion {
+	
+	@Override
+	public String databaseVersion(String data) {
+		return "Optional MariaDb";
+	}
+}
