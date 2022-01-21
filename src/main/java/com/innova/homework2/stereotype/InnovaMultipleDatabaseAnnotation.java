@@ -1,4 +1,4 @@
-package com.innova.stereotype;
+package com.innova.homework2.stereotype;
 
 import static java.lang.annotation.ElementType.FIELD;
 import static java.lang.annotation.ElementType.METHOD;

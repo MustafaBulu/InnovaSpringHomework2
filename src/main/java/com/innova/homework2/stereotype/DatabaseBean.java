@@ -1,4 +1,4 @@
-package com.innova.stereotype;
+package com.innova.homework2.stereotype;
 
 @InnovaMultipleDatabaseAnnotation
 // streotype yapısı çok annotation ı teke indirir.
